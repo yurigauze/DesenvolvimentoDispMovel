@@ -1,0 +1,10 @@
+Em relação a sintaxe, quais são as variantes na escrita de uma função? Quais são as especificidades e em que caso pode-se utilziar cada uma?
+
+    Possui função sem paremetro e sem retorno
+    Função com parametro e sem retorno
+    Função sem parametro e com retorno
+    Função com parametro e com retorno;
+
+    A passagem de parâmetros em uma função é essencial para ampliar o uso de uma função. Uma função sem parâmetro, é apenas um procedimento que executará sempre exatamente os mesmos passos.
+    Uma função que geralmente faz algum tipo de processamento ou cálculo e precisa retornar o resultado desse procedimento. O tipo de retorno, além dos tipos normais de variáveis (String, int, float, double), pode ser o tipo void, ou seja que não há valor de retorno. Um Procedimento é uma função que não retorna nada.
+    O uso de cada tipo de função vai depender do resultado que se pretende fazer, normalmente utiliza-se parâmetros quando se faz referência às variáveis declaradas na definição da função
