@@ -27,3 +27,12 @@ Começamos também com criação de label, entrada e retorno de dados.
 No final tivemos que "desenvolver" uma aplicação capaz de realizar duas operações matematica. Foi escolhido por mim as funções + e -.
 
 Nota de avaliação para o dia: A
+
+# Auto avaliação 14/02/2023 
+
+Chegado no horario de aula.
+Demos a introdução a uma nova linguagem. DART
+Não parace ser uma linguagem complicada, assim como qualquer outra, tem as suas peculiaridades. Começoa o aprendizado da linguagem usando funções com/sem parametro e com/sem retorno
+Realizado o exericio I em sala e o restante para sabado letivo.
+
+Nota de avaliação para o dia: A
