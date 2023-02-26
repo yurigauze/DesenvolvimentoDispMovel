@@ -28,7 +28,7 @@ No final tivemos que "desenvolver" uma aplicação capaz de realizar duas opera�
 
 Nota de avaliação para o dia: A
 
-# Auto avaliação 14/02/2023 
+# Auto avaliação 24/02/2023 
 
 Chegado no horario de aula.
 Demos a introdução a uma nova linguagem. DART
