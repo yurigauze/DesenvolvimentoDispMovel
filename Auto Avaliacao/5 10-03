@@ -1,0 +1,49 @@
+Auto avaliação 10-03
+
+Chegado no horario
+
+Iniciamos com instancias de classes em flutter, com sixtaxes bases e palavras chaves.
+Passamos a atribuir atributos provados e publicos 
+Atributo privado:   String _nome; ou  int _idade;
+ja um atributo publico nao necessita de _ antes do nome: 
+String modelo; ou int ano;
+
+Metodos privados e publicos também foram apresentados em sala
+a diferença entre ambas é que metodos publicos podem ser chamados por qualquer codigo que tenha uma instancia da classe, ja os privados so podem ser chamados dentro da classe que foram instanciados:
+
+metodo privado:
+void saudacao() {
+    _dizerOla();
+    print("Meu nome é $nome e eu tenho $idade anos.");
+  }
+
+  Metodo publico:
+
+   void mostrarDetalhes() {
+    print("Este carro é um $modelo fabricado em $ano.");
+  }
+.
+Apresentado construtores com parametros posicionais:
+Os parâmetros posicionais são aqueles que são passados na ordem em que foram declarados no construtor, sem necessidade de especificar seus nomes:
+
+class Pessoa {
+  String nome;
+  int idade;
+  
+  Pessoa(this.nome, this.idade);
+}
+
+Parametros formais:
+Parâmetros formais são utilizados para receber valores em funções e métodos, permitindo que eles sejam reutilizados e tornando o código mais modular e organizado.
+
+Herança: 
+É um recurso da programação orientada a objetos que permite criar novas classes a partir de outras classes já existentes, aproveitando seus atributos e métodos.
+
+Objetos com referencia:
+assim como em outras linguagens de programação orientadas a objetos, os objetos podem ser criados com referência a outros objetos já existentes. Isso significa que você pode criar um objeto que faz referência a outro objeto, permitindo compartilhar dados e comportamentos entre eles
+
+Objetos com referencia anonima:
+É um objeto sem atribuí-lo a uma variável com um nome específico, permitindo que você o use apenas uma vez ou que o passe como parâmetro para outra função ou método.
+
+Criando um objeto com referência anônima e passando para a função:
+imprimirPessoa(Pessoa("João", 30));

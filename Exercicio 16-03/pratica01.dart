@@ -1,7 +1,6 @@
-import 'package:aula_dart/cidade.dart';
-import 'package:aula_dart/estado.dart';
-import 'package:aula_dart/funcionario.dart';
-
+import 'cidade.dart';
+import 'estado.dart';
+import 'fornecedor.dart';
 
 void main(List<String> args) {
   /*
@@ -32,9 +31,6 @@ void main(List<String> args) {
       documento: '111.111.111-11',
       telefone: '44 1234 56789',
       contato: '44 1234 56789',
-      cidade: Cidade(
-          nome: 'Paranavai',
-          estado: Estado(nome:"Yuri", sigla: "PR")
-          )
-          );
+      cidade:
+          Cidade(nome: 'Paranavai', estado: Estado(nome: "Yuri", sigla: "PR")));
 }

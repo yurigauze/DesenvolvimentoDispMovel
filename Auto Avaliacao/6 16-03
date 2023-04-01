@@ -1,0 +1,17 @@
+Auto avaliação 16-03
+
+chegado no horario
+ 
+recaptulando a capacidade e compreeção na criação objetos de uma classe:
+    * com ou sem referência, com ou sem new
+    * forma anônima e com parâmetros nomeados (algo que é muito utilizado em Dart)
+
+ melhorando a capacidade de identificar parâmetros necessários
+    * obrigatórios, opcionais, posicionais, nomeados, do tipo objeto e função
+    * capacidade de identificar os tipos dos parâmetros das bibliotecas/código de outras pessoas
+
+melhorando o domínio na sintaxe (escrita e leitura)
+    * diferenciando ";" e ","   
+    * diferenciando ")" e "}"
+
+    realizado Exercicios sobre a recaptulação, estão disponivel na pasta 16-03 (apenas os arquivos que ficam dentro de /lib)

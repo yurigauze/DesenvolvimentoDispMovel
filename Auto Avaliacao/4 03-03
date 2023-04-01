@@ -1,0 +1,20 @@
+Auto Avaliação 03/03/2023
+
+Chegado no horario
+
+Formado equipes com 4 integrantes onde sera realizado atividade em grupo
+Foi então apresentado o novo "plano" de aula que o professor irá utilizar, basicamente reformulando o diario e explicando mais detalhes sobre os metodos avaliativos
+
+Iniciaremos com Functions Parameters, Anonymous Functions e Arrow Functions
+
+Functions Parameters:
+Se referem aos argumentos que são passados para uma função. Quando você define uma função em Flutter, pode especificar quais informações serão necessárias para que a função execute corretamente, e essas informações serão passadas para a função como parâmetros.
+
+Anonymous Functions 
+Funções anônimas são funções que não possuem um nome explícito e são definidas no local onde serão usadas. Elas são úteis em situações em que é necessário criar uma função simples e única que será usada apenas uma vez.
+
+Arrow Functions
+São uma sintaxe alternativa para definir funções anônimas com uma única expressão. Essa sintaxe é mais concisa do que a sintaxe tradicional de funções anônimas e pode tornar o código mais legível.
+    exmpl. int soma(int a, int b) => a + b;
+
+Realizados exercicios sobre as funções em sala.
