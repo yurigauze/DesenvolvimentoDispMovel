@@ -13,5 +13,5 @@
 - Arquivos de Auto Avaliação irá fazer referencia a exercicios realizados no mesmo dia.
 
 
-### :book: Link do projeto Fullter:
+### :book: Link do projeto Flutter:
 https://github.com/yurigauze/campus
